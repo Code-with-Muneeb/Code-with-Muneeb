@@ -1,4 +1,4 @@
-<image alt="logo" width="100%" src="https://github.com/CodeWithMuneeb/Code-with-Muneeb/blob/main/CodeWithMuneeb.png">
+<image alt="logo" width="100%" src="https://github.com/CodeWithMuneeb/CodeWithMuneeb/blob/main/CodeWithMuneeb.png">
 
 # 🏄‍♂️ Code-with-Muneeb (💫About Me)
 
